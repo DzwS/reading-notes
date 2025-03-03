@@ -7,3 +7,6 @@ reading nodes
 1. python核心编程
 2. pyhton面向对象编程
 3. fluent python
+
+
+1
