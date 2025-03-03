@@ -5,6 +5,7 @@ PYTHON_VERSION_3="3.6.8"
 REDIS_VERSION="5.0.4"
 DIG_VERSION="9.11.0"
 
+
 function install_init_dependence()
 {
     yum install openssl openssl-devel zlib-devel gcc vim make rsync -y
